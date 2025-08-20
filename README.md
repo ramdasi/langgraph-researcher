@@ -2,7 +2,8 @@
 
 This is an AI Agent project built with Python, LangChain, and OpenAI/Ollama models.  
 It supports conversational AI, tool usage, and knowledge storage with ChromaDB.
-
+https://github.com/ramdasi/langgraph-researcher/blob/main/v1/sample-research.png
+https://github.com/ramdasi/langgraph-researcher/blob/main/v1/sample-result.png
 ---
 
 ## 🚀 Features
